@@ -80,8 +80,8 @@ Contributions are welcome! Feel free to open an Issue or submit a Pull Request o
 
 ## 📄 License
 
-This plugin is licensed under the GPL v2 (or later).  
-See [LICENSE](https://www.gnu.org/licenses/gpl-2.0.html) for more details.
+This plugin is licensed under the GPL v3 (or later).  
+See [LICENSE](https://github.com/hosseinhunta/arvancloud-smart-cdn/blob/main/LICENSE) for more details.
 
 ---
 
