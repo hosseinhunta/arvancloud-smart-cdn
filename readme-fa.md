@@ -85,7 +85,7 @@
 ## 📄 مجوز (License)
 
 این افزونه تحت مجوز GPL v2 (یا نسخه‌های بعد) منتشر شده است.  
-برای اطلاعات بیشتر فایل [LICENSE](https://www.gnu.org/licenses/gpl-2.0.html) را ببینید.
+برای اطلاعات بیشتر فایل [LICENSE](https://github.com/hosseinhunta/arvancloud-smart-cdn/blob/main/LICENSE) را ببینید.
 
 ---
 
